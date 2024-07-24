@@ -3,6 +3,7 @@ sidebar_label:  Overview
 ---
 # Our Services at OneWare
 
+Our AI extension is currently under development. In the mean time we offer services
 Gerade momentan weil entwicklung, in zukunkft alles für intel hardware
 
 ## AI-based Quality Control for Industry-Application
